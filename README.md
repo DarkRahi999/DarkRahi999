@@ -13,7 +13,7 @@ I am a skilled and experienced web developer with 3 years of expertise. I specia
 
 - 👯 I’m looking to collaborate on **any Project**
 
-- 🤝 I’m looking for help with **Not now**
+- 🤝 I’m looking for worl **Remote Job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DarkRahi999?tab=repositories](https://github.com/DarkRahi999?tab=repositories)
 
