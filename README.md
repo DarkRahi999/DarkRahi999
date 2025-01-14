@@ -2,7 +2,7 @@
 <h1 align="center"> This is Rubayed Ahammed Rahi</h1>
 <h3 align="center">A Professional Full Stack Web Developer From Bangladesh.</h3>
 <hr>
-<img src="./assets/banner-02.jpg" hight="350" width="100%">
+<img src="./assets/banner.jpg" hight="350" width="100%">
 <hr>
 I am a skilled and experienced web developer with 3 years of expertise. I specialize in customization, redesign, and full-stack web development. I enjoy creating user-friendly and efficient websites tailored to client needs. My passion for coding and creative design drives me to continually enhance my skills and deliver quality solutions.
 
