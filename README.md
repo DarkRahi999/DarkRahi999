@@ -1,27 +1,53 @@
-<h3>Hi There👋,</h3>
-<h1 align="center"> This is Rubayed Ahammed Rahi</h1>
-<h3 align="center">A Professional Full Stack Web Developer From Bangladesh.</h3>
+
 <hr>
 <img src="./assets/banner.jpg" hight="350" width="100%">
 <hr>
-I am a skilled and experienced web developer with 3 years of expertise. I specialize in customization, redesign, and full-stack web development. I enjoy creating user-friendly and efficient websites tailored to client needs. My passion for coding and creative design drives me to continually enhance my skills and deliver quality solutions.
 
+## My Skills:
 
-- 🔭 I’m currently working on **Web Project**
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></td>
+    <td><b>React js ✅</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></td>
+    <td><b>Node js ✅</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></td>
+    <td><b>Express js ✅</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
+    <td><b>Java Script ✅</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></td>
+    <td><b>HTML 5 ✅</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></td>
+    <td><b>CSS ✅</b></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/tailwind.png" alt="Tailwind CSS" width="40" height="40"/></td>
+    <td><b>Tailwind CSS ✅</b></td>
+  </tr>
 
-- 🌱 I’m currently learning **Node js**
-
-- 👯 I’m looking to collaborate on **any Project**
-
-- 🤝 I’m looking for worl **Remote Job**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DarkRahi999?tab=repositories](https://github.com/DarkRahi999?tab=repositories)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **bisaktorahi007@gmail.com**
-
-- 📄 Know about my experiences [not ready yet]
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></td>
+    <td><b>Bootstrap 5 ✅</b></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/gsap.png" alt="GSAP" width="40" height="40"/></td>
+    <td><b>GSAP (Web Animation) ✅</b></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/figma.png" alt="Figma" width="40" height="40"/></td>
+    <td><b>Figma ✅</b></td>
+  </tr>
+</table>
 
 - ⚡ Fun fact **I think I'm active**
 
