@@ -1,6 +1,6 @@
 
 <hr>
-<img src="./assets/banner.jpg" hight="350" width="100%">
+<img src="./assets/banner.png" hight="350" width="100%">
 <hr>
 
 ## My Skills:
