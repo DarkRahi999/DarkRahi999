@@ -5,48 +5,46 @@
 
 ## My Skills:
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></td>
-    <td style="border: none;"><b>React js ✅</b></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></td>
-    <td style="border: none;"><b>Node js ✅</b></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></td>
-    <td style="border: none;"><b>Express js ✅</b></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
-    <td style="border: none;"><b>Java Script ✅</b></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></td>
-    <td style="border: none;"><b>HTML 5 ✅</b></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></td>
-    <td style="border: none;"><b>CSS ✅</b></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="./assets/tailwind.png" alt="Tailwind CSS" width="40" height="40"/></td>
-    <td style="border: none;"><b>Tailwind CSS ✅</b></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></td>
-    <td style="border: none;"><b>Bootstrap 5 ✅</b></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="./assets/gsap.png" alt="GSAP" width="40" height="40"/></td>
-    <td style="border: none;"><b>GSAP (Web Animation) ✅</b></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="./assets/figma.png" alt="Figma" width="40" height="40"/></td>
-    <td style="border: none;"><b>Figma ✅</b></td>
-  </tr>
-</table>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" />
+  <b>React js ✅</b>
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" />
+  <b>Node js ✅</b>
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="25" />
+  <b>Express js ✅</b>
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" />
+  <b>JavaScript ✅</b>
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" />
+  <b>HTML5 ✅</b>
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="25" />
+  <b>CSS ✅</b>
+</p>
+<p>
+  <img src="./assets/tailwind.png" alt="Tailwind CSS" width="25" />
+  <b>Tailwind CSS ✅</b>
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="25" />
+  <b>Bootstrap 5 ✅</b>
+</p>
+<p>
+  <img src="./assets/gsap.png" alt="GSAP" width="25" />
+  <b>GSAP (Web Animation) ✅</b>
+</p>
+<p>
+  <img src="./assets/figma.png" alt="Figma" width="25" />
+  <b>Figma ✅</b>
+</p>
 
 
 - ⚡ Fun fact **I think I'm active**
