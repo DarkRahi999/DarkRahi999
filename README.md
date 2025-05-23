@@ -5,49 +5,49 @@
 
 ## My Skills:
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></td>
-    <td><b>React js ✅</b></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></td>
+    <td style="border: none;"><b>React js ✅</b></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></td>
-    <td><b>Node js ✅</b></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></td>
+    <td style="border: none;"><b>Node js ✅</b></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></td>
-    <td><b>Express js ✅</b></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></td>
+    <td style="border: none;"><b>Express js ✅</b></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
-    <td><b>Java Script ✅</b></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
+    <td style="border: none;"><b>Java Script ✅</b></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></td>
-    <td><b>HTML 5 ✅</b></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></td>
+    <td style="border: none;"><b>HTML 5 ✅</b></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></td>
-    <td><b>CSS ✅</b></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></td>
+    <td style="border: none;"><b>CSS ✅</b></td>
   </tr>
   <tr>
-    <td><img src="./assets/tailwind.png" alt="Tailwind CSS" width="40" height="40"/></td>
-    <td><b>Tailwind CSS ✅</b></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></td>
-    <td><b>Bootstrap 5 ✅</b></td>
+    <td style="border: none;"><img src="./assets/tailwind.png" alt="Tailwind CSS" width="40" height="40"/></td>
+    <td style="border: none;"><b>Tailwind CSS ✅</b></td>
   </tr>
   <tr>
-    <td><img src="./assets/gsap.png" alt="GSAP" width="40" height="40"/></td>
-    <td><b>GSAP (Web Animation) ✅</b></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></td>
+    <td style="border: none;"><b>Bootstrap 5 ✅</b></td>
   </tr>
   <tr>
-    <td><img src="./assets/figma.png" alt="Figma" width="40" height="40"/></td>
-    <td><b>Figma ✅</b></td>
+    <td style="border: none;"><img src="./assets/gsap.png" alt="GSAP" width="40" height="40"/></td>
+    <td style="border: none;"><b>GSAP (Web Animation) ✅</b></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><img src="./assets/figma.png" alt="Figma" width="40" height="40"/></td>
+    <td style="border: none;"><b>Figma ✅</b></td>
   </tr>
 </table>
+
 
 - ⚡ Fun fact **I think I'm active**
 
