@@ -15,7 +15,7 @@
   <b>&nbsp; Express js ✅</b>
 </p>
 <p>
-  <img src="./assets/js.jpg" alt="JavaScript" width="25" />
+  <img src="./assets/js.jpg" alt="JavaScript" width="25" hight="30" />
   <b>&nbsp; JavaScript ✅</b>
 </p>
 <p>
