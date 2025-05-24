@@ -1,56 +1,48 @@
-
 <hr>
 <img src="./assets/banner.png" hight="350" width="100%">
 <hr>
-
-## My Skills:
-
+<h3> My Skills:</h3>
 <p>
   <img src="./assets/react.jpg" alt="React" width="25" />
   <b>&nbsp; React js ✅</b>
 </p>
 <p>
   <img src="./assets/node.jpg" alt="Node.js" width="25" />
-  <b>Node js ✅</b>
+  <b>&nbsp; Node js ✅</b>
 </p>
 <p>
   <img src="./assets/express.jpg" alt="Express.js" width="25" />
-  <b>Express js ✅</b>
+  <b>&nbsp; Express js ✅</b>
 </p>
 <p>
   <img src="./assets/js.jpg" alt="JavaScript" width="25" />
-  <b>JavaScript ✅</b>
+  <b>&nbsp; JavaScript ✅</b>
 </p>
 <p>
   <img src="./assets/html.jpg" alt="HTML5" width="25" />
-  <b>HTML5 ✅</b>
+  <b>&nbsp; HTML5 ✅</b>
 </p>
 <p>
   <img src="./assets/css.jpg" alt="CSS3" width="25" />
-  <b>CSS ✅</b>
+  <b>&nbsp; CSS ✅</b>
 </p>
 <p>
   <img src="./assets/tailwind.png" alt="Tailwind CSS" width="25" />
-  <b>Tailwind CSS ✅</b>
+  <b>&nbsp; Tailwind CSS ✅</b>
 </p>
 <p>
   <img src="./assets/bootstrap.jpg" alt="Bootstrap" width="25" />
-  <b>Bootstrap 5 ✅</b>
+  <b>&nbsp; Bootstrap 5 ✅</b>
 </p>
 <p>
   <img src="./assets/gsap.png" alt="GSAP" width="25" />
-  <b>GSAP (Web Animation) ✅</b>
+  <b>&nbsp; GSAP (Web Animation) ✅</b>
 </p>
 <p>
   <img src="./assets/figma.png" alt="Figma" width="25" />
-  <b>Figma ✅</b>
+  <b>&nbsp; Figma ✅</b>
 </p>
-
-
-- ⚡ Fun fact **I think I'm active**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
 <a href="https://twitter.com/rahi207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahi207" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bisaktorahi007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bisaktorahi007" height="30" width="40" /></a>
 <a href="https://fb.com/bisaktorahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bisaktorahi" height="30" width="40" /></a>
