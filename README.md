@@ -6,27 +6,27 @@
 ## My Skills:
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" />
-  <b>React js ✅</b>
+  <img src="./assets/react.jpg" alt="React" width="25" />
+  <b>&nbsp; React js ✅</b>
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" />
+  <img src="./assets/node.jpg" alt="Node.js" width="25" />
   <b>Node js ✅</b>
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="25" />
+  <img src="./assets/express.jpg" alt="Express.js" width="25" />
   <b>Express js ✅</b>
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" />
+  <img src="./assets/js.jpg" alt="JavaScript" width="25" />
   <b>JavaScript ✅</b>
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" />
+  <img src="./assets/html.jpg" alt="HTML5" width="25" />
   <b>HTML5 ✅</b>
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="25" />
+  <img src="./assets/css.jpg" alt="CSS3" width="25" />
   <b>CSS ✅</b>
 </p>
 <p>
@@ -34,7 +34,7 @@
   <b>Tailwind CSS ✅</b>
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="25" />
+  <img src="./assets/bootstrap.jpg" alt="Bootstrap" width="25" />
   <b>Bootstrap 5 ✅</b>
 </p>
 <p>
