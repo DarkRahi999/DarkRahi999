@@ -46,7 +46,7 @@
   <img src="./assets/figma.png" alt="Figma" width="25" />
   <b>&nbsp; Figma ✅</b>
 </p>
-<h3>Connect with me:</h3>
+<h3>Connect with me :</h3>
 <p>
 <a href="https://linkedin.com/in/bisaktorahi007" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bisaktorahi007" height="30" width="40" /></a>
 
