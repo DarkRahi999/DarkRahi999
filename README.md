@@ -21,7 +21,7 @@
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
 </p>
 <p>
-  <img src="./assets/sass.jpg" alt="sass" width="25" />
+  <img src="./assets/sass.webp" alt="sass" width="25" />
   <b>&nbsp; SASS</b>
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
@@ -57,7 +57,7 @@
   <img src="./assets/noFillStar.svg" alt="No Fill Star" width="20" height="20">
 </p>
 <p>
-  <img src="./assets/typescript.jpg" alt="TpeScript" width="25" hight="50" />
+  <img src="./assets/typescript.webp" alt="TpeScript" width="25" hight="50" />
   <b>&nbsp; TypeScript</b>
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
@@ -75,7 +75,7 @@
   <img src="./assets/noFillStar.svg" alt="No Fill Star" width="20" height="20">
 </p>
 <p>
-  <img src="./assets/next.jpg" alt="Nest" width="25" />
+  <img src="./assets/next.webp" alt="Nest" width="25" />
   <b>&nbsp; Next js</b>
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
@@ -102,7 +102,7 @@
   <img src="./assets/noFillStar.svg" alt="No Fill Star" width="20" height="20">
 </p>
 <p>
-  <img src="./assets/nest.jpg" alt="nest" width="25" />
+  <img src="./assets/nest.webp" alt="nest" width="25" />
   <b>&nbsp; Nest js </b>
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
@@ -111,7 +111,7 @@
   <img src="./assets/halfStar.svg" alt="Half Star" width="20" height="20">
 </p>
 <p>
-  <img src="./assets/sql.png" alt="SQL" width="25" />
+  <img src="./assets/sql.webp" alt="SQL" width="25" />
   <b>&nbsp; SQL</b>
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
@@ -129,7 +129,7 @@
   <img src="./assets/halfStar.svg" alt="Half Star" width="20" height="20">
 </p>
 <p>
-  <img src="./assets/postgresql.png" alt="postgresql" width="25" />
+  <img src="./assets/postgresql.webp" alt="postgresql" width="25" />
   <b>&nbsp; Postgresql</b>
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
