@@ -57,6 +57,15 @@
   <img src="./assets/noFillStar.svg" alt="No Fill Star" width="20" height="20">
 </p>
 <p>
+  <img src="./assets/typescript.jpg" alt="TpeScript" width="25" hight="50" />
+  <b>&nbsp; TypeScript</b>
+  <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
+  <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
+  <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
+  <img src="./assets/halfStar.svg" alt="Half Star" width="20" height="20">
+  <img src="./assets/noFillStar.svg" alt="No Fill Star" width="20" height="20">
+</p>
+<p>
   <img src="./assets/react.jpg" alt="React" width="25" />
   <b>&nbsp; React js</b>
   <img src="./assets/fullStar.svg" alt="Star" width="20" height="20">
