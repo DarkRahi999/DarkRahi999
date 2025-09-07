@@ -7,6 +7,7 @@
   <p> <i> JavaScript | TypeScript | React | Next.js | Express.js | Nest.js | Postgresql </i></p>
   <br/>
   <img src="https://img.shields.io/badge/Location-Bangladesh-9ca3af?style=flat&labelColor=1f2937" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-10b981?style=flat&labelColor=064e3b" />
 </div>
 <br/>
