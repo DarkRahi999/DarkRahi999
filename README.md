@@ -1,5 +1,5 @@
 <hr>
-<img src="./assets/banner.png" hight="350" width="100%">
+<img src="./assets/banner.png" hight="350" width="100%" alt="Bisakto Rahi Banner">
 <hr>
 <h3>🛠️ Skill, Languages and Tools :</h3>
 <p>
